@@ -1,1 +1,2 @@
-# C143-Project
+# Blog-App
+React native blog app
